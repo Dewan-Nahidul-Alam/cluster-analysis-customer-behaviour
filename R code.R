@@ -1,11 +1,11 @@
-# Installing and loading necessary packages for generating your unique data.
-packages <- c("dplyr", "tidyr", "tidyverse")
-for (p in packages) {
-  if (!requireNamespace(p, quietly = TRUE)) {
-    install.packages(p)
-  }
-  library(p, character.only = TRUE)
-}
+# # Installing and loading necessary packages for generating your unique data.
+# packages <- c("dplyr", "tidyr", "tidyverse")
+# for (p in packages) {
+#   if (!requireNamespace(p, quietly = TRUE)) {
+#     install.packages(p)
+#   }
+#   library(p, character.only = TRUE)
+# }
 
 install.packages("dplyr")
 install.packages("tidyr")
@@ -43,7 +43,7 @@ readr::write_csv(my_data, "my_data.csv")
 
 # 4. Checking data
 glimpse(my_data)
-head(my_data)1
+head(my_data)
 
 
 
