@@ -1,4 +1,4 @@
-# Cluster Analysis: Customer Segmentation & Behavioral
+# Cluster Analysis: Customer Segmentation
 
 ## 📌 Project Overview
 
