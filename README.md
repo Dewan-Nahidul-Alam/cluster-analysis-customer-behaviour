@@ -82,23 +82,3 @@ The project enabled the business to:
 - Increase long-term customer profitability
 
 The clustering framework also established a scalable foundation for future personalization and marketing optimization efforts.
-
----
-
-## 📂 Repository Structure
-
-```bash
-├── data/
-├── scripts/
-├── visualizations/
-├── dashboard/
-├── reports/
-└── README.md
-```
-
----
-
-## 🔗 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/dewan-nahidul-alam-niloy/)  
-[Portfolio Site](https://dewan-nahidul-alam.notion.site/Dewan-Nahidul-Alam-24e7d32202ad801d9f05dd2dece431ff)
