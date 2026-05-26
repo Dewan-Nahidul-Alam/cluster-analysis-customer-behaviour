@@ -1,4 +1,4 @@
-# 🛍️ Cluster Analysis: Customer Segmentation & Behavioral
+# Cluster Analysis: Customer Segmentation & Behavioral
 
 ## 📌 Project Overview
 
@@ -30,7 +30,7 @@ Retail + E-commerce
 ---
 
 ## 👨‍💼 Role
-**Data Analyst / Business Consultant**
+**Data Analyst / Business Analyst**
 
 ---
 
